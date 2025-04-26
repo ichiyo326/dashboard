@@ -1,0 +1,30 @@
+[
+    {
+      "model": "dashboard.performanceresult",
+      "pk": 1,
+      "fields": {
+        "timestamp": "2025-04-25T05:00:00Z",
+        "requests": 1000,
+        "avg_response_time_ms": 118.2
+      }
+    },
+    {
+      "model": "dashboard.performanceresult",
+      "pk": 2,
+      "fields": {
+        "timestamp": "2025-04-26T05:00:00Z",
+        "requests": 1000,
+        "avg_response_time_ms": 121.5
+      }
+    },
+    {
+      "model": "dashboard.performanceresult",
+      "pk": 3,
+      "fields": {
+        "timestamp": "2025-04-27T05:00:00Z",
+        "requests": 1000,
+        "avg_response_time_ms": 115.7
+      }
+    }
+  ]
+  
